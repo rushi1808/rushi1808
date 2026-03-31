@@ -11,7 +11,7 @@
 - 🌱 Currently learning **LangChain | PyTorch | Agentic AI Systems**
 - 🔭 Building projects in **AI Agents & Intelligent Automation**
 - 🎯 Goal: Land a **Research Internship / AI-ML Role** in 2026
-- 📍 Based in **Gujarat, India**
+- 📍 Based in **Maharastra, India**
 - 📫 Contact: **rushipatil1808@gmail.com**
 
 ---
@@ -19,7 +19,7 @@
 ## 🛠️ Skills
 
 **Programming Languages**
-- Python, C, SQL, TypeScript
+- Python, C, SQL,Java
 
 **AI / Machine Learning**
 - Machine Learning, Deep Learning
@@ -38,7 +38,7 @@
 
 ### 🧥 Cloth TryOn System
 Virtual cloth try-on system using computer vision and AI
-- Tech: TypeScript, AI, Computer Vision
+- Tech: AI, Computer Vision
 
 ### 💰 Expense Tracker
 Smart expense tracking app with data analysis features
